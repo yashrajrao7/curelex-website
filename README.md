@@ -44,11 +44,12 @@ Curelex/
  💻 How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/SowmithPaida/curelex-website.git
+  
 
-2. Open the project folder.
+3. Open the project folder.
 
-3. Open `index.html` in any modern web browser.
+4. Open `index.html` in any modern web browser.
 
 No additional installation is required.
 
